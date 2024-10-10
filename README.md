@@ -12,8 +12,7 @@ Este é um jogo simples baseado na web, onde os jogadores testam suas habilidade
 
 1. Um código de cor RGB aleatório será exibido.
 2. Escolha a cor correta entre as opções abaixo do código RGB.
-3. Ganhe pontos para cada resposta correta.
-4. Continue jogando para melhorar sua pontuação!
+
 
 ## Developers
 
