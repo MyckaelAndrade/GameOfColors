@@ -18,6 +18,6 @@ Este é um jogo simples baseado na web, onde os jogadores testam suas habilidade
 
 - Arthur Renato
 - Joselio Júnior
-- Marcos Filipe
+- Marcos Felipe
 - Myckael Andrade
 - Yan Lemke
